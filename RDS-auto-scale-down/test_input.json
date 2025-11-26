@@ -1,0 +1,10 @@
+{
+  "targetClass": "db.t4g.medium",
+  "clusterIdentifier": "k-nakatani-dev-cluster",
+  "writerInstanceId": "k-nakatani-dev-writer",
+  "dedicatedReaderInstanceId": "k-nakatani-dev-reader-dedicated",
+  "autoScalingReaderInstanceIds": [
+    "k-nakatani-dev-reader-as-1"
+  ]
+}
+
